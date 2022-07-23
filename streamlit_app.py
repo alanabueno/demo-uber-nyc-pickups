@@ -130,7 +130,7 @@ with row1_2:
     st.write(
         """
     ##
-    Grupo Evolução: Alana, Larissa, Samuel, Viviane e Thais 
+    Grupo Evolução: Alana, Larissa, Samuel, Viviane e Thais.
 
     """
     )
