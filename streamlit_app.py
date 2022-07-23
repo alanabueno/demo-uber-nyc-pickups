@@ -130,8 +130,8 @@ with row1_2:
     st.write(
         """
     ##
-    Examining how Uber pickups vary over time in New York City's and at its major regional airports.
-    By sliding the slider on the left you can view different slices of time and explore different transportation trends.
+    Grupo Evolução: Alana, Larissa, Samuel, Viviane e Thais 
+
     """
     )
 
